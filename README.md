@@ -10,6 +10,7 @@ a casual repo regarding my studies in LLM and its applications
 - https://www.youtube.com/watch?v=tx5OapbK-8A
 - https://www.youtube.com/watch?v=bZzyPscbtI8
 - https://www.youtube.com/watch?v=h2FDq3agImI
+- https://github.com/FareedKhan-dev/train-deepseek-r1
 - 
 
 ## RAG
